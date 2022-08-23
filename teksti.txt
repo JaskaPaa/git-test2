@@ -1,1 +1,3 @@
 Tämäkään ei ole enää tyhjää täynnä.
+
+Toisenlainen uusi rivi on tässä.
