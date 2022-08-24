@@ -1,1 +1,4 @@
 Ei enää tyhjä tiedosto.
+
+Testaus Metropolian tiloista.
+
